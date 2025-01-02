@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello, I am Harry Sheng, currently a second year student at the University of Auckland, pursuing a B.S. in Computer Science.
-
-🔭 I am broadly interested in machine learning and constantly explore how this technology can be used to create a positive societal impact. My goal is to ensure that the advancements in AI technology lead to a positive impact on society. Currently, my research focuses on AI safety. Specifically, I want to better understand the vulnerabilities in visual language models and design effective strategies to enhance their safety.
+👋 Hello, I am Harry Sheng.
 
 ⚡ Fun fact: In my free time, I enjoy going to the gym and doing some powerlifting stuff. My current PB is squat 200kg, bench 110kg, and deadlift 220kg. :)
