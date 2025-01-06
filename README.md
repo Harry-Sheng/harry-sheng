@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 👋 Hello, I am Harry Sheng.
 
-⚡ Fun fact: In my free time, I enjoy going to the gym and doing some powerlifting stuff. My current PB is squat 200kg, bench 110kg, and deadlift 220kg. :)
+⚡ Fun fact: In my free time, I enjoy going to the gym and doing some powerlifting. My current PB is squat 200kg, bench 110kg, and deadlift 220kg. :)
